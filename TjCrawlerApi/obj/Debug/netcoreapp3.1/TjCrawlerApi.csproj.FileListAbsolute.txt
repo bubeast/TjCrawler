@@ -1,0 +1,10 @@
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\bin\Debug\netcoreapp3.1\TjCrawlerApi.exe
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\obj\Debug\netcoreapp3.1\TjCrawlerApi.csprojAssemblyReference.cache
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\obj\Debug\netcoreapp3.1\TjCrawlerApi.AssemblyInfoInputs.cache
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\obj\Debug\netcoreapp3.1\TjCrawlerApi.AssemblyInfo.cs
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\obj\Debug\netcoreapp3.1\TjCrawlerApi.RazorTargetAssemblyInfo.cache
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\obj\Debug\netcoreapp3.1\staticwebassets\TjCrawlerApi.StaticWebAssets.Manifest.cache
+C:\Projetos\TjCrawlerApi\TjCrawlerApi\obj\Debug\netcoreapp3.1\staticwebassets\TjCrawlerApi.StaticWebAssets.xml

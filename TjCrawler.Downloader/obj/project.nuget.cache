@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZOyTocFeNX9G/OeQ05tBGUjmAp7/hbdGUaTEb4WQe//qFWow5wVw4ZiUo9v8KqJCo+uwg7n0KR6WC589Kx3SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\TjCrawlerApi\\TjCrawler.Downloader\\TjCrawler.Downloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

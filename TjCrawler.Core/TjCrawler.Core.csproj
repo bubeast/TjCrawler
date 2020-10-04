@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TjCrawler.Domain\TjCrawler.Domain.csproj" />
+    <ProjectReference Include="..\TjCrawler.Downloader\TjCrawler.Downloader.csproj" />
+    <ProjectReference Include="..\TjCrawler.Processor\TjCrawler.Processor.csproj" />
+    <ProjectReference Include="..\TjCrawler.Request\TjCrawler.Request.csproj" />
+  </ItemGroup>
+
+</Project>

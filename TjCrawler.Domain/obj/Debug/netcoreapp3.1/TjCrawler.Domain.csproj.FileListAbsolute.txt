@@ -1,0 +1,16 @@
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\bin\Debug\netcoreapp3.1\TjCrawler.Domain.deps.json
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\bin\Debug\netcoreapp3.1\TjCrawler.Domain.dll
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\bin\Debug\netcoreapp3.1\TjCrawler.Domain.pdb
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\obj\Debug\netcoreapp3.1\TjCrawler.Domain.AssemblyInfoInputs.cache
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\obj\Debug\netcoreapp3.1\TjCrawler.Domain.AssemblyInfo.cs
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\obj\Debug\netcoreapp3.1\TjCrawler.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\obj\Debug\netcoreapp3.1\TjCrawler.Domain.dll
+C:\Projetos\TjCrawlerApi\TjCrawler.Data\obj\Debug\netcoreapp3.1\TjCrawler.Domain.pdb
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\bin\Debug\netcoreapp3.1\TjCrawler.Domain.deps.json
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\bin\Debug\netcoreapp3.1\TjCrawler.Domain.dll
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\bin\Debug\netcoreapp3.1\TjCrawler.Domain.pdb
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\obj\Debug\netcoreapp3.1\TjCrawler.Domain.AssemblyInfoInputs.cache
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\obj\Debug\netcoreapp3.1\TjCrawler.Domain.AssemblyInfo.cs
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\obj\Debug\netcoreapp3.1\TjCrawler.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\obj\Debug\netcoreapp3.1\TjCrawler.Domain.dll
+C:\Projetos\TjCrawlerApi\TjCrawler.Domain\obj\Debug\netcoreapp3.1\TjCrawler.Domain.pdb

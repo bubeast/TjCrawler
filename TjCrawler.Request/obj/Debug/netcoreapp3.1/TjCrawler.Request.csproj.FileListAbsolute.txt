@@ -1,0 +1,8 @@
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\bin\Debug\netcoreapp3.1\TjCrawler.Request.deps.json
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\bin\Debug\netcoreapp3.1\TjCrawler.Request.dll
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\bin\Debug\netcoreapp3.1\TjCrawler.Request.pdb
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\obj\Debug\netcoreapp3.1\TjCrawler.Request.AssemblyInfoInputs.cache
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\obj\Debug\netcoreapp3.1\TjCrawler.Request.AssemblyInfo.cs
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\obj\Debug\netcoreapp3.1\TjCrawler.Request.csproj.CoreCompileInputs.cache
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\obj\Debug\netcoreapp3.1\TjCrawler.Request.dll
+C:\Projetos\TjCrawlerApi\TjCrawler.Request\obj\Debug\netcoreapp3.1\TjCrawler.Request.pdb
